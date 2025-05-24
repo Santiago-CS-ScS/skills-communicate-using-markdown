@@ -4,3 +4,5 @@
 #### Cuarto Nivel
 ##### 5to
 ###### ¿Cuando usar?
+
+![Image of Yaktocat by course](https://octodex.github.com/images/yaktocat.png)
