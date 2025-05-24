@@ -8,4 +8,9 @@
 ![Image of Yaktocat by course](https://octodex.github.com/images/yaktocat.png)
 
 ``` python 
-print("Hola, ¿Mundo?")```
+print("Hola, ¿Mundo?")
+```
+
+- [X] Cafe
+- [ ] Jugar
+- [ ] Descansar
